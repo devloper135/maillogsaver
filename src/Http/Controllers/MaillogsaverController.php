@@ -1,9 +1,9 @@
 <?php
 
-namespace Akshay\Maillogsaver\Http\Controllers;
+namespace Devloper135\Maillogsaver\Http\Controllers;
 
-use Akshay\Maillogsaver\Mail\MaillogsaverMailable;
-use Akshay\Maillogsaver\Models\Maillogsaver;
+use Devloper135\Maillogsaver\Mail\MaillogsaverMailable;
+use Devloper135\Maillogsaver\Models\Maillogsaver;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;

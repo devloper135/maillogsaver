@@ -1,6 +1,6 @@
 <?php
 
-namespace Akshay\Maillogsaver\Models;
+namespace Devloper135\Maillogsaver\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Akshay\Maillogsaver\Mail;
+namespace Devloper135\Maillogsaver\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

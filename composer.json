@@ -1,11 +1,11 @@
 {
-    "name": "akshay/maillogsaver",
+    "name": "devloper135/maillogsaver",
     "description": "This will save the log of mail",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Akshay Shah",
+            "name": "Dev Loper",
             "email": "devloper1350@gmail.com"
         }
     ],
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Akshay\\Maillogsaver\\": "src/"
+            "Devloper135\\Maillogsaver\\": "src/"
         }
     }
 }

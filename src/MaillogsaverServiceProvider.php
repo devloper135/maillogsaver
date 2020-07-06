@@ -1,6 +1,6 @@
 <?php
 
-namespace Akshay\Maillogsaver;
+namespace Devloper135\Maillogsaver;
 
 use Illuminate\Support\ServiceProvider;
 
